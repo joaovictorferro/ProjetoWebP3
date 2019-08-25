@@ -1,12 +1,9 @@
 # ProjetoWebP3
 ### IDE: Utilizada: Visual Studi
-### IDataBaseConhecimento
+### Projeto: IBancoDeDadosConhecimento
 
-
-
-
-#### Entra nas pasta backend e frontend
-#### para instalar as dependências do projeto
+#### Entra nas pastas backend e frontend para instalar as dependências do projeto
 ```
 npm i
 ```
+#### Ter instalado e funcionando o Banco de Dados Mongodb (obs: na sua porta padrao)
